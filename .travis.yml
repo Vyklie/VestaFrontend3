@@ -22,4 +22,4 @@ notifications:
       - maria.buftea@ee.utm.md
       - carolina.ciocanu@ati.utm.md
     on_success: always # default: change
-    on_failure: always # default: alway
+    on_failure: always # default: always
